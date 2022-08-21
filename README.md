@@ -18,4 +18,4 @@ Code heavily borrowed from [TartarusGate](https://github.com/trickster0/Tartarus
 
 ## Contributing
 
-To further the research of EDR, email a similar output of the program to `fin3ss3g0d@pm.me` in `.txt` format. A new folder will be added to this repository in the future logging hooks for various vendors based on contributions.
+To further the research of EDR, email a similar output of the program to `fin3ss3g0d@pm.me` in `.txt` format with a subject including `HookFinder` and the vendor name. Hook statistics based on vendor will be added to this repository in the future logging hooks for various vendors based on contributions.
