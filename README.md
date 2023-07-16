@@ -14,7 +14,7 @@ The below screenshot is a demo running the program against an endpoint with EDR.
 
 ## A Word About Sponsorship
 
-On `July 15, 2023`I created my `GitHub Sponsors` sponsorship tiers. Be sure to check them out to find out what kind of perks you could be getting!
+On `July 15, 2023` I created my `GitHub Sponsors` sponsorship tiers. Be sure to check them out to find out what kind of perks you could be getting!
 
 ## Credits
 
