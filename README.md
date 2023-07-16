@@ -12,10 +12,10 @@ The below screenshot is a demo running the program against an endpoint with EDR.
 
 ![demo](demo/demo.png)
 
+## A Word About Sponsorship
+
+On `July 15, 2023`I created my `GitHub Sponsors` sponsorship tiers. Be sure to check them out to find out what kind of perks you could be getting!
+
 ## Credits
 
 Code heavily borrowed from [TartarusGate](https://github.com/trickster0/TartarusGate).
-
-## Contributing
-
-To further the research of EDR, email a similar output of the program to `fin3ss3g0d@pm.me` in `.txt` format with a subject including `HookFinder` and the vendor name. Hook statistics based on vendor will be added to this repository in the future logging hooks for various vendors based on contributions.
